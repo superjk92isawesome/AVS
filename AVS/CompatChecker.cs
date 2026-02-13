@@ -44,10 +44,6 @@ namespace AVS
                     ShowWarning(rmc, "There is a BepInEx Pack update available!");
                 }
             }
-            else
-            {
-                ShowWarning(rmc, "There is a BepInEx Pack update available!");
-            }
         }
         private static void CheckForNautilusUpdate(RootModController rmc)
         {
